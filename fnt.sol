@@ -639,7 +639,7 @@ contract IRewardDistributionRecipient is Ownable {
 // File: contracts\fnt.sol
 
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.6.0;
+pragma solidity 0.6.0;
 
 
 
